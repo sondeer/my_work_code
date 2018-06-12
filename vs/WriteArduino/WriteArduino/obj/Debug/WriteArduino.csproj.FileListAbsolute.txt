@@ -1,0 +1,9 @@
+F:\vs\WriteArduino\WriteArduino\bin\Debug\WriteArduino.exe.config
+F:\vs\WriteArduino\WriteArduino\bin\Debug\WriteArduino.exe
+F:\vs\WriteArduino\WriteArduino\bin\Debug\WriteArduino.pdb
+F:\vs\WriteArduino\WriteArduino\obj\Debug\WriteArduino.csprojResolveAssemblyReference.cache
+F:\vs\WriteArduino\WriteArduino\obj\Debug\WriteArduino.MainForm.resources
+F:\vs\WriteArduino\WriteArduino\obj\Debug\WriteArduino.Properties.Resources.resources
+F:\vs\WriteArduino\WriteArduino\obj\Debug\WriteArduino.csproj.GenerateResource.Cache
+F:\vs\WriteArduino\WriteArduino\obj\Debug\WriteArduino.exe
+F:\vs\WriteArduino\WriteArduino\obj\Debug\WriteArduino.pdb

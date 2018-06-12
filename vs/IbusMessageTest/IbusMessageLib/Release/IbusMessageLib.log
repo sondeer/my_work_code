@@ -1,0 +1,31 @@
+﻿  IbusMessageLib.cpp
+  ibusmessage.cpp
+ibusmessage.cpp(253): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+ibusmessage.cpp(254): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+ibusmessage.cpp(255): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+ibusmessage.cpp(313): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+ibusmessage.cpp(314): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+ibusmessage.cpp(315): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+ibusmessage.cpp(323): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+ibusmessage.cpp(327): warning C4244: “=”: 从“float”转换到“uint8_t”，可能丢失数据
+ibusmessage.cpp(328): warning C4244: “=”: 从“float”转换到“uint8_t”，可能丢失数据
+ibusmessage.cpp(329): warning C4244: “=”: 从“float”转换到“uint8_t”，可能丢失数据
+ibusmessage.cpp(370): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+ibusmessage.cpp(401): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+ibusmessage.cpp(402): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+ibusmessage.cpp(403): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+ibusmessage.cpp(405): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+ibusmessage.cpp(417): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+ibusmessage.cpp(418): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+ibusmessage.cpp(419): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+ibusmessage.cpp(447): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+ibusmessage.cpp(724): warning C4838: 从“int”转换到“uint8_t”需要收缩转换
+ibusmessage.cpp(732): warning C4838: 从“int”转换到“uint8_t”需要收缩转换
+ibusmessage.cpp(740): warning C4838: 从“int”转换到“uint8_t”需要收缩转换
+    正在创建库 F:\vs\IbusMessageTest\Release\IbusMessageLib.lib 和对象 F:\vs\IbusMessageTest\Release\IbusMessageLib.exp
+  正在生成代码
+  130 of 136 functions (95.6%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  IbusMessageLib.vcxproj -> F:\vs\IbusMessageTest\Release\IbusMessageLib.dll

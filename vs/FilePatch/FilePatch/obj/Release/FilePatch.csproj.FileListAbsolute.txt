@@ -1,0 +1,2 @@
+F:\vs\FilePatch\FilePatch\bin\Release\FilePatch.exe.config
+F:\vs\FilePatch\FilePatch\obj\Release\FilePatch.csproj.GenerateResource.Cache

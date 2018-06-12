@@ -1,0 +1,22 @@
+﻿  CmdHandle.cpp
+CmdHandle.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+CmdHandle.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+  HexFile.cpp
+HexFile.cpp(37): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+HexFile.cpp(118): warning C4244: “=”: 从“unsigned long”转换到“unsigned char”，可能丢失数据
+HexFile.cpp(143): warning C4018: “>”: 有符号/无符号不匹配
+  WriteFirmwareDll.cpp
+  WriteFirmwareManage.cpp
+WriteFirmwareManage.cpp(58): warning C4018: “>=”: 有符号/无符号不匹配
+WriteFirmwareManage.cpp(85): warning C4018: “>=”: 有符号/无符号不匹配
+WriteFirmwareManage.cpp(100): warning C4018: “>=”: 有符号/无符号不匹配
+WriteFirmwareManage.cpp(140): warning C4018: “>=”: 有符号/无符号不匹配
+WriteFirmwareManage.cpp(189): warning C4018: “>=”: 有符号/无符号不匹配
+WriteFirmwareManage.cpp(205): warning C4018: “>=”: 有符号/无符号不匹配
+    正在创建库 F:\vs\WriteFirmware\Release\WriteFirmwareDll.lib 和对象 F:\vs\WriteFirmware\Release\WriteFirmwareDll.exp
+  正在生成代码
+  19 of 65 functions (29.2%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  WriteFirmwareDll.vcxproj -> F:\vs\WriteFirmware\Release\WriteFirmwareDll.dll

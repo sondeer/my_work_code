@@ -1,0 +1,12 @@
+F:\vs\ShowWave\ShowWave\bin\Debug\ShowWave.exe.config
+F:\vs\ShowWave\ShowWave\bin\Debug\ShowWave.exe
+F:\vs\ShowWave\ShowWave\bin\Debug\ShowWave.pdb
+F:\vs\ShowWave\ShowWave\bin\Debug\Iocomp.Instrumentation.WF40.Common.dll
+F:\vs\ShowWave\ShowWave\bin\Debug\Iocomp.Instrumentation.WF40.Plot.dll
+F:\vs\ShowWave\ShowWave\obj\Debug\ShowWave.csprojResolveAssemblyReference.cache
+F:\vs\ShowWave\ShowWave\obj\Debug\ShowWave.ShowWaveForm.resources
+F:\vs\ShowWave\ShowWave\obj\Debug\ShowWave.Properties.Resources.resources
+F:\vs\ShowWave\ShowWave\obj\Debug\ShowWave.csproj.GenerateResource.Cache
+F:\vs\ShowWave\ShowWave\obj\Debug\ShowWave.exe
+F:\vs\ShowWave\ShowWave\obj\Debug\ShowWave.pdb
+F:\vs\ShowWave\ShowWave\obj\Debug\ShowWave.exe.licenses

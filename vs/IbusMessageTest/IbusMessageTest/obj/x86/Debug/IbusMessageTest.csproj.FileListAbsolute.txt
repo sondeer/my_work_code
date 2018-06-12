@@ -1,0 +1,12 @@
+F:\vs\IbusMessageTest\IbusMessageTest\bin\x86\Debug\IbusMessageTest.exe.config
+F:\vs\IbusMessageTest\IbusMessageTest\bin\x86\Debug\IbusMessageTest.exe
+F:\vs\IbusMessageTest\IbusMessageTest\bin\x86\Debug\IbusMessageTest.pdb
+F:\vs\IbusMessageTest\IbusMessageTest\bin\x86\Debug\GMap.NET.Core.dll
+F:\vs\IbusMessageTest\IbusMessageTest\bin\x86\Debug\GMap.NET.WindowsForms.dll
+F:\vs\IbusMessageTest\IbusMessageTest\bin\x86\Debug\GMap.NET.Core.xml
+F:\vs\IbusMessageTest\IbusMessageTest\bin\x86\Debug\GMap.NET.WindowsForms.xml
+F:\vs\IbusMessageTest\IbusMessageTest\obj\x86\Debug\IbusMessageTest.MainForm.resources
+F:\vs\IbusMessageTest\IbusMessageTest\obj\x86\Debug\IbusMessageTest.Properties.Resources.resources
+F:\vs\IbusMessageTest\IbusMessageTest\obj\x86\Debug\IbusMessageTest.csproj.GenerateResource.Cache
+F:\vs\IbusMessageTest\IbusMessageTest\obj\x86\Debug\IbusMessageTest.exe
+F:\vs\IbusMessageTest\IbusMessageTest\obj\x86\Debug\IbusMessageTest.pdb

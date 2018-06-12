@@ -1,0 +1,5 @@
+﻿  wifidevice.cpp
+f:\vs\socketsendfiletest\socketsendfiletest\wifidevice.cpp(242): warning C4018: “>=”: 有符号/无符号不匹配
+f:\vs\socketsendfiletest\socketsendfiletest\wifidevice.cpp(267): warning C4267: “=”: 从“size_t”转换到“short”，可能丢失数据
+f:\vs\socketsendfiletest\socketsendfiletest\wifidevice.cpp(359): warning C4018: “>=”: 有符号/无符号不匹配
+  SocketSendFileTest.vcxproj -> F:\vs\SocketSendFileTest\Debug\SocketSendFileTest.exe

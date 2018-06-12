@@ -1,0 +1,10 @@
+F:\vs\IbusMessageTest\IbusMessageTest\bin\Release\IbusMessageTest.exe.config
+F:\vs\IbusMessageTest\Release\IbusMessageTest.exe.config
+F:\vs\IbusMessageTest\Release\IbusMessageTest.exe
+F:\vs\IbusMessageTest\Release\IbusMessageTest.pdb
+F:\vs\IbusMessageTest\IbusMessageTest\obj\Release\IbusMessageTest.Properties.Resources.resources
+F:\vs\IbusMessageTest\IbusMessageTest\obj\Release\IbusMessageTest.csproj.GenerateResource.Cache
+F:\vs\IbusMessageTest\IbusMessageTest\obj\Release\IbusMessageTest.exe
+F:\vs\IbusMessageTest\IbusMessageTest\obj\Release\IbusMessageTest.pdb
+F:\vs\IbusMessageTest\IbusMessageTest\obj\Release\IbusMessageTest.MainForm.resources
+F:\vs\IbusMessageTest\IbusMessageTest\obj\Release\IbusMessageTest.csprojResolveAssemblyReference.cache

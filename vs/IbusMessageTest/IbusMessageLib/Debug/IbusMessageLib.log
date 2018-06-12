@@ -1,0 +1,28 @@
+﻿  IbusMessageLib.cpp
+  正在生成代码...
+  正在编译...
+  ibusmessage.cpp
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(253): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(254): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(255): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(313): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(314): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(315): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(323): warning C4244: “=”: 从“float”转换到“uint16_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(327): warning C4244: “=”: 从“float”转换到“uint8_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(328): warning C4244: “=”: 从“float”转换到“uint8_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(329): warning C4244: “=”: 从“float”转换到“uint8_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(370): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(401): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(402): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(403): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(405): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(417): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(418): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(419): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(447): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(724): warning C4838: 从“int”转换到“uint8_t”需要收缩转换
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(732): warning C4838: 从“int”转换到“uint8_t”需要收缩转换
+f:\vs\ibusmessagetest\ibusmessagelib\ibusmessage.cpp(740): warning C4838: 从“int”转换到“uint8_t”需要收缩转换
+  正在生成代码...
+  IbusMessageLib.vcxproj -> F:\vs\IbusMessageTest\Debug\IbusMessageLib.dll

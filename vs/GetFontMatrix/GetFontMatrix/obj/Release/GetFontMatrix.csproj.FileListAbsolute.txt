@@ -1,0 +1,10 @@
+F:\vs2012\c#\GetFontMatrix\GetFontMatrix\bin\Release\GetFontMatrix.exe.config
+F:\vs2012\c#\GetFontMatrix\GetFontMatrix\bin\Release\GetFontMatrix.exe
+F:\vs2012\c#\GetFontMatrix\GetFontMatrix\bin\Release\GetFontMatrix.pdb
+F:\vs2012\c#\GetFontMatrix\GetFontMatrix\obj\Release\GetFontMatrix.MainForm.resources
+F:\vs2012\c#\GetFontMatrix\GetFontMatrix\obj\Release\GetFontMatrix.Properties.Resources.resources
+F:\vs2012\c#\GetFontMatrix\GetFontMatrix\obj\Release\GetFontMatrix.ShowPixFont.resources
+F:\vs2012\c#\GetFontMatrix\GetFontMatrix\obj\Release\GetFontMatrix.csproj.GenerateResource.Cache
+F:\vs2012\c#\GetFontMatrix\GetFontMatrix\obj\Release\GetFontMatrix.exe
+F:\vs2012\c#\GetFontMatrix\GetFontMatrix\obj\Release\GetFontMatrix.pdb
+F:\vs2012\c#\GetFontMatrix\GetFontMatrix\obj\Release\GetFontMatrix.csprojResolveAssemblyReference.cache

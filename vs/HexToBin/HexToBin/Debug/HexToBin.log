@@ -1,0 +1,4 @@
+﻿  CmdHandle.cpp
+f:\vs\hextobin\hextobin\cmdhandle.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs\hextobin\hextobin\cmdhandle.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+  HexToBin.vcxproj -> F:\vs\HexToBin\Debug\HexToBin.exe

@@ -1,0 +1,9 @@
+F:\vs\FilePatch\FilePatch\bin\Debug\FilePatch.exe.config
+F:\vs\FilePatch\FilePatch\bin\Debug\FilePatch.exe
+F:\vs\FilePatch\FilePatch\bin\Debug\FilePatch.pdb
+F:\vs\FilePatch\FilePatch\obj\Debug\FilePatch.csprojResolveAssemblyReference.cache
+F:\vs\FilePatch\FilePatch\obj\Debug\FilePatch.MainForm.resources
+F:\vs\FilePatch\FilePatch\obj\Debug\FilePatch.Properties.Resources.resources
+F:\vs\FilePatch\FilePatch\obj\Debug\FilePatch.csproj.GenerateResource.Cache
+F:\vs\FilePatch\FilePatch\obj\Debug\FilePatch.exe
+F:\vs\FilePatch\FilePatch\obj\Debug\FilePatch.pdb

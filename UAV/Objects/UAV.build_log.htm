@@ -1,0 +1,234 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.18.0.0
+Copyright (C) 2016 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: admin asus, admin, LIC=1WSII-T97H8-XB5EC-7RXS9-PU1XB-SR4ET
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.18
+Toolchain Path:  d:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 1 (build 61)
+Assembler:       Armasm.exe V5.06 update 1 (build 61)
+Linker/Locator:  ArmLink.exe V5.06 update 1 (build 61)
+Library Manager: ArmAr.exe V5.06 update 1 (build 61)
+Hex Converter:   FromElf.exe V5.06 update 1 (build 61)
+CPU DLL:         SARMCM3.DLL V5.18
+Dialog DLL:      DARMSTM.DLL V1.65.0.0
+Target DLL:      Segger\JL2CM3.dll V2.99.18.0
+Dialog DLL:      TCM.DLL V1.14.8.0
+ 
+<h2>Project:</h2>
+F:\Keil\UAV\UAV.uvprojx
+Project File Date:  03/30/2016
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 1 (build 61)', folder: 'd:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'UAV'
+compiling ModeCtrl.cpp...
+compiling stm32f4xx_it.cpp...
+compiling CalculationPID.cpp...
+compiling AttitudeControl.cpp...
+compiling AttitudeCalculationEKF.cpp...
+compiling main.cpp...
+User\Src\main.cpp(242): warning:  #111-D: statement is unreachable
+  	return 0;
+User\Src\main.cpp: 1 warning, 0 errors
+compiling RcCtrl.cpp...
+User\Src\RcCtrl.cpp(53): warning:  #111-D: statement is unreachable
+  	return true;
+User\Src\RcCtrl.cpp: 1 warning, 0 errors
+compiling SPI.cpp...
+compiling led.cpp...
+compiling PositionCalculation.cpp...
+compiling Motor.cpp...
+compiling HMC5983.cpp...
+compiling MS5611.cpp...
+Driver\Src\MS5611.cpp(51): warning:  #550-D: variable "temp" was set but never used
+  	float temp;
+Driver\Src\MS5611.cpp: 1 warning, 0 errors
+compiling LSM6DS33.cpp...
+compiling ExIMU.cpp...
+compiling Power.cpp...
+compiling usb_device.c...
+compiling Sbus.cpp...
+compiling usbd_desc.c...
+compiling usbd_custom_hid_if.c...
+compiling usbd_conf.c...
+compiling RTX_Conf_CM.c...
+assembling startup_stm32f427xx.s...
+compiling system_stm32f4xx.c...
+compiling usbd_ioreq.c...
+compiling stm32f4xx_hal.c...
+compiling OnChipFlash.cpp...
+Driver\Src\OnChipFlash.cpp(14): warning:  #940-D: missing return statement at end of non-void function "OnChipFlash::ReadData"
+  }
+Driver\Src\OnChipFlash.cpp(18): warning:  #940-D: missing return statement at end of non-void function "OnChipFlash::WriteData"
+  }
+Driver\Src\OnChipFlash.cpp: 2 warnings, 0 errors
+compiling usbd_customhid.c...
+compiling usbd_ctlreq.c...
+compiling usbd_core.c...
+compiling stm32f4xx_hal_adc.c...
+compiling stm32f4xx_hal_adc_ex.c...
+compiling stm32f4xx_hal_cortex.c...
+compiling stm32f4xx_hal_flash_ex.c...
+compiling stm32f4xx_hal_dma_ex.c...
+compiling stm32f4xx_hal_flash.c...
+compiling stm32f4xx_hal_dma.c...
+compiling stm32f4xx_hal_gpio.c...
+compiling stm32f4xx_hal_i2c_ex.c...
+compiling stm32f4xx_hal_pcd_ex.c...
+compiling stm32f4xx_hal_pcd.c...
+compiling stm32f4xx_hal_pwr.c...
+compiling stm32f4xx_hal_pwr_ex.c...
+compiling stm32f4xx_hal_rcc.c...
+compiling stm32f4xx_hal_i2c.c...
+compiling stm32f4xx_hal_rcc_ex.c...
+compiling stm32f4xx_hal_uart.c...
+compiling stm32f4xx_hal_tim_ex.c...
+compiling stm32f4xx_hal_spi.c...
+compiling stm32f4xx_ll_usb.c...
+compiling stm32f4xx_hal_tim.c...
+linking...
+Program Size: Code=31892 RO-data=656 RW-data=532 ZI-data=31820  
+FromELF: creating hex file...
+".\Objects\UAV.axf" - 0 Error(s), 5 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.4.5.0.pack
+                ::CMSIS:RTOS:1.0 (API)
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: RTOS Version: 1.0
+   * Component: CORE Version: 4.3.0
+   * Component: Keil RTX Version: 4.80.0
+   * Component: DSP Version: 1.4.6
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F4xx_DFP.2.7.0.pack
+                Keil::Device:Startup:2.4.2
+                STMicroelectronics STM32F4 Series Device Support, Drivers and Examples
+   * Component: Startup Version: 2.4.2
+   * Component: STM32Cube Framework Version: 
+   * Component: Common Version: 1.4.2
+   * Component: Classic Version: 1.4.2
+   * Component: ADC Version: 1.4.2
+   * Component: DMA Version: 1.4.2
+   * Component: Cortex Version: 1.4.2
+   * Component: I2C Version: 1.4.2
+   * Component: GPIO Version: 1.4.2
+   * Component: Flash Version: 1.4.2
+   * Component: PCD Version: 1.4.2
+   * Component: PWR Version: 1.4.2
+   * Component: RCC Version: 1.4.2
+   * Component: SPI Version: 1.4.2
+   * Component: UART Version: 1.4.2
+   * Component: TIM Version: 1.4.2
+
+<h2>Collection of Component include folders:</h2>
+  F:\Keil\UAV\RTE
+  F:\Keil\UAV\RTE\Device\STM32F427VGTx
+  d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
+  d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC
+  d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+  d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\STM32F4xx_HAL_Driver\Inc
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ::CMSIS:RTOS:1.0 (API)
+
+   * Component: ARM::CMSIS:CORE:4.3.0
+
+   * Component: ARM::CMSIS:RTOS:Keil RTX:4.80.0
+      Include file:  CMSIS\RTOS\RTX\UserCodeTemplates\osObjects.h
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\MailQueue.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\main.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\MemPool.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\MsgQueue.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Semaphore.c
+      Include file:  CMSIS\RTOS\RTX\INC\cmsis_os.h
+      Source file:   CMSIS\RTOS\RTX\Templates\RTX_Conf_CM.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Thread.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Timer.c
+      Source file:   CMSIS\RTOS\RTX\SRC\ARM\SVC_Table.s
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Mutex.c
+      Library file:  CMSIS\RTOS\RTX\LIB\ARM\RTX_CM4.lib
+
+   * Component: ARM::CMSIS:DSP:1.4.6
+      Library file:  CMSIS\Lib\ARM\arm_cortexM4lf_math.lib
+      Include file:  CMSIS\Include\arm_math.h
+
+   * Component: Keil::Device:Startup:2.4.2
+      Source file:   MDK\Device\Source\ARM\STM32F4xx_OTP.s
+      Source file:   Drivers\CMSIS\Device\ST\STM32F4xx\Source\Templates\arm\startup_stm32f427xx.s
+      Source file:   MDK\Device\Source\ARM\STM32F42xxx_43xxx_OPT.s
+      Include file:  Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+      Source file:   Drivers\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c
+
+   * Component: ::Device:STM32Cube Framework (API)
+
+   * Component: Keil::Device:STM32Cube HAL:Common:1.4.2
+      Include file:  Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c
+
+   * Component: Keil::Device:STM32Cube Framework:Classic:1.4.2
+      Include file:  MDK\Templates\Inc\main.h
+      Source file:   MDK\Templates\Src\main.c
+      Include file:  MDK\Templates\Inc\stm32f4xx_it.h
+      Include file:  CMSIS\Driver\Config\RTE_Device.h
+      Include file:  MDK\Templates\Inc\stm32f4xx_hal_conf.h
+      Source file:   MDK\Templates\Src\stm32f4xx_hal_msp.c
+      Source file:   MDK\Templates\Src\stm32f4xx_it.c
+
+   * Component: Keil::Device:STM32Cube HAL:ADC:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_adc.c
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_adc_ex.c
+
+   * Component: Keil::Device:STM32Cube HAL:DMA:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma_ex.c
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.c
+
+   * Component: Keil::Device:STM32Cube HAL:Cortex:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c
+
+   * Component: Keil::Device:STM32Cube HAL:I2C:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2c.c
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2c_ex.c
+
+   * Component: Keil::Device:STM32Cube HAL:GPIO:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.c
+
+   * Component: Keil::Device:STM32Cube HAL:Flash:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash.c
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ex.c
+
+   * Component: Keil::Device:STM32Cube HAL:PCD:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd.c
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd_ex.c
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_usb.c
+
+   * Component: Keil::Device:STM32Cube HAL:PWR:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr.c
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c
+
+   * Component: Keil::Device:STM32Cube HAL:RCC:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.c
+
+   * Component: Keil::Device:STM32Cube HAL:SPI:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spi.c
+
+   * Component: Keil::Device:STM32Cube HAL:UART:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c
+
+   * Component: Keil::Device:STM32Cube HAL:TIM:1.4.2
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim_ex.c
+      Source file:   Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c
+Build Time Elapsed:  00:00:26
+</pre>
+</body>
+</html>

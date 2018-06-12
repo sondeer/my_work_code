@@ -1,0 +1,10 @@
+F:\vs\GetLedShowArray\GetLedShowArray\bin\x86\Release\GetLedShowArray.exe.config
+F:\vs\GetLedShowArray\GetLedShowArray\bin\x86\Release\GetLedShowArray.exe
+F:\vs\GetLedShowArray\GetLedShowArray\bin\x86\Release\GetLedShowArray.pdb
+F:\vs\GetLedShowArray\GetLedShowArray\obj\x86\Release\GetLedShowArray.LedPanelControl.resources
+F:\vs\GetLedShowArray\GetLedShowArray\obj\x86\Release\GetLedShowArray.MainForm.resources
+F:\vs\GetLedShowArray\GetLedShowArray\obj\x86\Release\GetLedShowArray.Properties.Resources.resources
+F:\vs\GetLedShowArray\GetLedShowArray\obj\x86\Release\GetLedShowArray.csproj.GenerateResource.Cache
+F:\vs\GetLedShowArray\GetLedShowArray\obj\x86\Release\GetLedShowArray.exe
+F:\vs\GetLedShowArray\GetLedShowArray\obj\x86\Release\GetLedShowArray.pdb
+F:\vs\GetLedShowArray\GetLedShowArray\obj\x86\Release\GetLedShowArray.csprojResolveAssemblyReference.cache

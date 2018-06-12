@@ -1,0 +1,153 @@
+﻿  stdafx.cpp
+  QrTest.cpp
+  qrcnv_tiff.cpp
+f:\vs\qrtest\qrtest\qrcnv_tiff.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs\qrtest\qrtest\qr.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs\qrtest\qrtest\qrcnv_tiff.cpp(17): fatal error C1083: 无法打开包括文件: “zlib.h”: No such file or directory
+  qrcnv_svg.cpp
+f:\vs\qrtest\qrtest\qrcnv_svg.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs\qrtest\qrtest\qrcnv_svg.cpp(13): warning C4627: “#include "qrcnv.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcnv_svg.cpp(13): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcnv_svg.cpp(250): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  qrcnv_png.cpp
+f:\vs\qrtest\qrtest\qrcnv_png.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs\qrtest\qrtest\qrcnv_png.cpp(13): warning C4627: “#include "qrcnv.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcnv_png.cpp(13): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcnv_png.cpp(15): warning C4627: “#include <stdint.h>”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcnv_png.cpp(15): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcnv_png.cpp(17): warning C4627: “#include <zlib.h>”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcnv_png.cpp(17): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcnv_png.cpp(18): warning C4627: “#include "crc.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcnv_png.cpp(18): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcnv_png.cpp(94): warning C4005: “qrPngWriteLong”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv_png.cpp(85): note: 参见“qrPngWriteLong”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv_png.cpp(101): warning C4005: “qrPngWriteLong”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv_png.cpp(94): note: 参见“qrPngWriteLong”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv_png.cpp(582): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  qrcnv_bmp.cpp
+f:\vs\qrtest\qrtest\qrcnv_bmp.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(13): warning C4627: “#include "qrcnv.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(13): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(15): warning C4627: “#include <stdint.h>”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(15): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(41): warning C4005: “qrBmpWriteShort”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(34): note: 参见“qrBmpWriteShort”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(46): warning C4005: “qrBmpWriteShort”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(41): note: 参见“qrBmpWriteShort”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(66): warning C4005: “qrBmpWriteLong”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(57): note: 参见“qrBmpWriteLong”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(73): warning C4005: “qrBmpWriteLong”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(66): note: 参见“qrBmpWriteLong”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv_bmp.cpp(322): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  qrcnv.cpp
+f:\vs\qrtest\qrtest\qrcnv.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs\qrtest\qrtest\qrcnv.cpp(13): warning C4627: “#include "qrcnv.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcnv.cpp(13): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcnv.cpp(159): warning C4005: “qrWriteEOR_ASCII”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(157): note: 参见“qrWriteEOR_ASCII”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(166): warning C4005: “QRCNV_AA_UNIT”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(162): note: 参见“QRCNV_AA_UNIT”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(168): warning C4005: “qrWriteDKM_ASCII”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(164): note: 参见“qrWriteDKM_ASCII”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(181): warning C4005: “QRCNV_JSON_UNIT”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(177): note: 参见“QRCNV_JSON_UNIT”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(182): warning C4005: “qrWriteBLM_JSON”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(178): note: 参见“qrWriteBLM_JSON”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(183): warning C4005: “qrWriteDKM_JSON”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(179): note: 参见“qrWriteDKM_JSON”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(267): warning C4005: “qrWriteBOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(218): note: 参见“qrWriteBOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(268): warning C4005: “qrWriteEOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(219): note: 参见“qrWriteEOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(269): warning C4005: “qrWriteBLM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(220): note: 参见“qrWriteBLM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(270): warning C4005: “qrWriteDKM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(221): note: 参见“qrWriteDKM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(317): warning C4005: “qrWriteBOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(267): note: 参见“qrWriteBOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(318): warning C4005: “qrWriteEOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(268): note: 参见“qrWriteEOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(319): warning C4005: “qrWriteBLM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(269): note: 参见“qrWriteBLM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(320): warning C4005: “qrWriteDKM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(270): note: 参见“qrWriteDKM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(380): warning C4005: “qrWriteBOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(317): note: 参见“qrWriteBOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(381): warning C4005: “qrWriteEOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(318): note: 参见“qrWriteEOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(382): warning C4005: “qrWriteBLM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(319): note: 参见“qrWriteBLM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(383): warning C4005: “qrWriteDKM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(320): note: 参见“qrWriteDKM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(441): warning C4005: “qrWriteBOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(380): note: 参见“qrWriteBOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(442): warning C4005: “qrWriteEOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(381): note: 参见“qrWriteEOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(443): warning C4005: “qrWriteBLM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(382): note: 参见“qrWriteBLM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(444): warning C4005: “qrWriteDKM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(383): note: 参见“qrWriteDKM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(499): warning C4005: “qrWriteBOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(441): note: 参见“qrWriteBOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(500): warning C4005: “qrWriteEOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(442): note: 参见“qrWriteEOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(501): warning C4005: “qrWriteBLM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(443): note: 参见“qrWriteBLM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(502): warning C4005: “qrWriteDKM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(444): note: 参见“qrWriteDKM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(554): warning C4005: “qrWriteBOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(499): note: 参见“qrWriteBOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(555): warning C4005: “qrWriteEOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(500): note: 参见“qrWriteEOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(556): warning C4005: “qrWriteBLM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(501): note: 参见“qrWriteBLM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(557): warning C4005: “qrWriteDKM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(502): note: 参见“qrWriteDKM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(627): warning C4005: “qrWriteBOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(554): note: 参见“qrWriteBOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(628): warning C4005: “qrWriteEOR”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(555): note: 参见“qrWriteEOR”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(629): warning C4005: “qrWriteBLM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(556): note: 参见“qrWriteBLM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(630): warning C4005: “qrWriteDKM”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcnv.cpp(557): note: 参见“qrWriteDKM”的前一个定义
+f:\vs\qrtest\qrtest\qrcnv.cpp(658): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  qrcmd.cpp
+f:\vs\qrtest\qrtest\qrcmd.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs\qrtest\qrtest\qrcmd.cpp(13): warning C4627: “#include "qrcmd.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcmd.cpp(13): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcmd.cpp(27): warning C4627: “#include <err.h>”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcmd.cpp(27): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcmd.cpp(30): warning C4627: “#include <limits.h>”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcmd.cpp(30): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcmd.cpp(31): warning C4627: “#include <stdlib.h>”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcmd.cpp(31): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcmd.cpp(32): warning C4627: “#include <string.h>”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcmd.cpp(32): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcmd.cpp(35): warning C4627: “#include <sys/fcntl.h>”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qrcmd.cpp(35): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qrcmd.cpp(41): warning C4005: “writeln”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcmd.cpp(36): note: 参见“writeln”的前一个定义
+f:\vs\qrtest\qrtest\qrcmd.cpp(42): warning C4005: “ewriteln”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcmd.cpp(37): note: 参见“ewriteln”的前一个定义
+f:\vs\qrtest\qrtest\qrcmd.cpp(43): warning C4005: “writelnf”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcmd.cpp(38): note: 参见“writelnf”的前一个定义
+f:\vs\qrtest\qrtest\qrcmd.cpp(44): warning C4005: “ewritelnf”: 宏重定义
+  f:\vs\qrtest\qrtest\qrcmd.cpp(39): note: 参见“ewritelnf”的前一个定义
+f:\vs\qrtest\qrtest\qrcmd.cpp(615): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  qr.cpp
+f:\vs\qrtest\qrtest\qr.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs\qrtest\qrtest\qr.cpp(14): warning C4627: “#include "config.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qr.cpp(14): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qr.cpp(17): warning C4627: “#include "qr.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qr.cpp(17): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qr.cpp(18): warning C4627: “#include "qr_util.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qr.cpp(18): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qr.cpp(19): warning C4627: “#include "qr_private.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qr.cpp(19): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qr.cpp(20): warning C4627: “#include "qr_dwtable.h"”: 在查找预编译头使用时跳过
+  f:\vs\qrtest\qrtest\qr.cpp(20): note: 将指令添加到“stdafx.h”或重新生成预编译头
+f:\vs\qrtest\qrtest\qr.cpp(1278): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs\qrtest\qrtest\qr.cpp(2424): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs\qrtest\qrtest\qr.cpp(2481): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...

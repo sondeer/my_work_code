@@ -1,0 +1,8 @@
+﻿  WriteFirmwareManage.cpp
+f:\vs\writefirmware\writefirmwaredll\writefirmwaremanage.cpp(67): warning C4018: “>=”: 有符号/无符号不匹配
+f:\vs\writefirmware\writefirmwaredll\writefirmwaremanage.cpp(94): warning C4018: “>=”: 有符号/无符号不匹配
+f:\vs\writefirmware\writefirmwaredll\writefirmwaremanage.cpp(109): warning C4018: “>=”: 有符号/无符号不匹配
+f:\vs\writefirmware\writefirmwaredll\writefirmwaremanage.cpp(149): warning C4018: “>=”: 有符号/无符号不匹配
+f:\vs\writefirmware\writefirmwaredll\writefirmwaremanage.cpp(198): warning C4018: “>=”: 有符号/无符号不匹配
+f:\vs\writefirmware\writefirmwaredll\writefirmwaremanage.cpp(214): warning C4018: “>=”: 有符号/无符号不匹配
+  WriteFirmwareDll.vcxproj -> F:\vs\WriteFirmware\Debug\WriteFirmwareDll.dll

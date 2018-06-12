@@ -1,0 +1,11 @@
+F:\vs\BleOdev\BleOdev\bin\Debug\BleOdev.exe.config
+F:\vs\BleOdev\BleOdev\obj\Debug\BleOdev.csprojResolveAssemblyReference.cache
+F:\vs\BleOdev\BleOdev\obj\Debug\BleOdev.MainForm.resources
+F:\vs\BleOdev\BleOdev\obj\Debug\BleOdev.Properties.Resources.resources
+F:\vs\BleOdev\BleOdev\obj\Debug\BleOdev.csproj.GenerateResource.Cache
+F:\vs\BleOdev\BleOdev\bin\Debug\BleOdev.exe
+F:\vs\BleOdev\BleOdev\bin\Debug\BleOdev.pdb
+F:\vs\BleOdev\BleOdev\bin\Debug\InTheHand.Net.Personal.dll
+F:\vs\BleOdev\BleOdev\bin\Debug\InTheHand.Net.Personal.xml
+F:\vs\BleOdev\BleOdev\obj\Debug\BleOdev.exe
+F:\vs\BleOdev\BleOdev\obj\Debug\BleOdev.pdb

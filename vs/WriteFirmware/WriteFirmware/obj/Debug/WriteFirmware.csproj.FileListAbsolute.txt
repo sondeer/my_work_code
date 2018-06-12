@@ -1,0 +1,12 @@
+F:\vs\WriteFirmware\WriteFirmware\bin\Debug\WriteFirmware.exe.config
+F:\vs\WriteFirmware\WriteFirmware\bin\Debug\WriteFirmware.exe
+F:\vs\WriteFirmware\WriteFirmware\bin\Debug\WriteFirmware.pdb
+F:\vs\WriteFirmware\WriteFirmware\obj\Debug\WriteFirmware.csprojResolveAssemblyReference.cache
+F:\vs\WriteFirmware\WriteFirmware\obj\Debug\WriteFirmware.MainForm.resources
+F:\vs\WriteFirmware\WriteFirmware\obj\Debug\WriteFirmware.Properties.Resources.resources
+F:\vs\WriteFirmware\WriteFirmware\obj\Debug\WriteFirmware.csproj.GenerateResource.Cache
+F:\vs\WriteFirmware\WriteFirmware\obj\Debug\WriteFirmware.exe
+F:\vs\WriteFirmware\WriteFirmware\obj\Debug\WriteFirmware.pdb
+F:\vs\WriteFirmware\Debug\WriteFirmware.exe.config
+F:\vs\WriteFirmware\Debug\WriteFirmware.exe
+F:\vs\WriteFirmware\Debug\WriteFirmware.pdb
